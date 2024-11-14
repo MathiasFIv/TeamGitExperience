@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66e82af6-c389-45c9-acfe-2273b8563ace" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/tv/safte/teamgitexperiene1/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tv/safte/teamgitexperiene1/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tv/safte/teamgitexperiene1/Graph.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +55,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -82,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731575809864</updated>
       <workItem from="1731575811124" duration="4000" />
-      <workItem from="1731576085405" duration="45000" />
+      <workItem from="1731576085405" duration="1314000" />
     </task>
     <servers />
   </component>
