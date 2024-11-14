@@ -28,4 +28,14 @@ public class HelloApplication extends Application {
     public static void main(String[] args) {
         launch();
     }
+
+
+    public int awesomeNumber() {
+        int x = 1;
+        int y = 2;
+        int result = x + y;
+        return result;
+
+    }
+
 }
